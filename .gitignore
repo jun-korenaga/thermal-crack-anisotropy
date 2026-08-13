@@ -1,0 +1,9 @@
+/build/
+/results/
+/kanaun2009_fourier/build/
+/kanaun2009_fourier/results/
+*.o
+*.a
+*.so
+*.dylib
+.DS_Store
